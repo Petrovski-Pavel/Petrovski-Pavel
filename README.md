@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Petrovski-Pavel
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python; Django
+- 🌱 I’m currently learning Python; ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email: pavelpetrovski333@gmail.com
 
